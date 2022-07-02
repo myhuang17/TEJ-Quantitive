@@ -2,7 +2,6 @@
 library(quantmod)
 library(tseries)
 library(forecast)
-library(ggplot2)
 library(lubridate)
 library(TTR)
 library(zoo)
